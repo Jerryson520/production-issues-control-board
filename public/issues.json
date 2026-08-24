@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-24 17:07 CST",
+  "issues": [
+    {
+      "iid": 2,
+      "title": "用户询问“梳理近期重要宏观政策的市场影响。”时，任务运行约 110 秒后失败，未返回分析正文或交付文件。",
+      "module": "macro-background-analyze",
+      "state": "open",
+      "flow": "Inbox",
+      "severity": "S2",
+      "source": "Product",
+      "author": "sunyuwen",
+      "updated": "2026-08-24 16:24",
+      "web_url": "https://git-cc.myhexin.com:6443/10jqka/llm/ai1-nlp-tg/tg_agnet/production-issues/-/issues/2"
+    },
+    {
+      "iid": 1,
+      "title": "验证对话式 AI 创建线上问题 Issue 流程",
+      "module": "流程验证",
+      "state": "closed",
+      "flow": "Resolved",
+      "severity": "—",
+      "source": "Algorithm",
+      "author": "sunyuwen",
+      "updated": "2026-08-24 16:24",
+      "web_url": "https://git-cc.myhexin.com:6443/10jqka/llm/ai1-nlp-tg/tg_agnet/production-issues/-/issues/1"
+    }
+  ]
+}
